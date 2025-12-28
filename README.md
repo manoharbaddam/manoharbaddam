@@ -38,8 +38,6 @@ I’m a Computer Science student specializing in **AI & ML**, passionate about b
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoharbaddam&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoharbaddam&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=manoharbaddam&show_icons=true)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=manoharbaddam&layout=compact)
 
 
 ---
